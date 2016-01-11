@@ -24,6 +24,8 @@ Place your camera to the distance and height you'd like it to render the object 
 
 See `Sprite Batch Rendering` section of the `Render`-tab for controls. You can see the rendering status messages in the system console (Window > Toggle System Console). Click **Render Batch** to begin rendering.
 
+![Location of GUI](http://i.imgur.com/eTUqZQi.png)
+
 Note: **the rendering process can't be canceled** once started, so make sure your `Frame Range` and image resolution are correct.
 
 ### Example .blend file
